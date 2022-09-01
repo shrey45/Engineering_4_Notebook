@@ -57,6 +57,12 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 
 ### Test Link
 
+[How to make a rocket](https://pbskids.org/)
+
 ### Test Image
 
+![taco4life](images/download.jfif)
+
 ### Test GIF
+
+![ayo](images/giphy.gif)
