@@ -11,10 +11,14 @@ button.pull = digitalio.Pull.UP
 
 print('ready')
 
-while True:
-        for i in range(10,0,-1):
-            led.value = True
-            print(i)
-            time.sleep(.5)
-            led.value = False
+#while True:
+for i in range(10,0,-1):
+    led.value = True
+    time.sleep(.5)
+    print(i)
+    led.value = False
+    time.sleep(.5)
+
+print('LIFTOFF')
+led2.value = True
            
