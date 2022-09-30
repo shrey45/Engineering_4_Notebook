@@ -1,59 +1,25 @@
-from stringprep import c22_specials
+import math
 
-
-def add_numbers(num1, num2):
-  total = num1 + num2
-  return total
-
-def coordinates():
-  c1 = c1.split(",")
-  try:
-    x1 = float(c1[0])
-  except:
-    print("DUDE")
-    coordinates()
-  try:
-    y1 = float(c1[1])
-  except:
-    print("DUDE")
-    coordinates()
-  print(f"x1 = {x1}")
-  print(f"y1 = {y1}")
-  c2 = c2.split(",")
-  try:
-    x2 = float(c2[0])
-  except:
-    print("DUDE")
-    coordinates()
-  try:
-    y2 = float(c2[1])
-  except:
-    print("DUDE")
-    coordinates()
-  print(f"x2 = {x2}")
-  print(f"y2 = {y2}")
-  c3 = c3.split(",")
-  try:
-    x3 = float(c3[0])
-  except:
-    print("DUDE")
-    coordinates()
-  try:
-    y3 = float(c3[1])
-  except:
-    print("DUDE")
-    coordinates()
-  print(f"x3 = {x3}")
-  print(f"y3 = {y3}")
-
-#def distance():
- # sqrt
+def tri(x1, y1, x2, y2, x3, y3):
+  x1 = float(x1)
+  x2 = float(x2)
+  x3 = float(x3)
+  y1 = float(y1)
+  y2 = float(y2)  
+  y3 = float(y3)
+  #area = abs(x1 * (y2-y3) + x2 * (y3-y1) + x3 * (y1-y2))
+  area = abs((x1*y2+x2*y3+x3*y1-y1*x2-y2*x3-y3*x1)/2)
+  print(area)
+  return area
 
 while True:
-    c1 = input('Enter coordinates:')
-    c2 = input('Enter coordinates:')
-    c3 = input('Enter coordinates:')
 
-    coordinates()
- 
+  try:
 
+    [xcoor1, ycoor1] = input("Enter coordinate 1: ").split(",")
+    [xcoor2, ycoor2] = input("Enter coordinate 2: ").split(",")
+    [xcoor3, ycoor3] = input("Enter coordinate 3: ").split(",")
+    area = tri(xcoor1, ycoor1, xcoor2, ycoor2, xcoor3, ycoor3)
+    print(f"The area of a triangle with coordinates ({xcoor1},{ycoor1}), ({xcoor2},{ycoor2}), ({xcoor3},{ycoor3}) is {area}")
+  except:
+    print("bro lock in")
