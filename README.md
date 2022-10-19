@@ -132,6 +132,34 @@ This is the only new chunk of code. Click [here](https://github.com/shrey45/Engi
 
 The regular assignment woudl just need one more line of code with a servo - the spicy was a little hard to conceptualize, but still super easy. I just checked whether it was within the last 3 seconds and then made a small formula for the servo angles in terms of i.
 
+## Crash Avoidance #1
+
+### Assignment Description
+
+We were supposed to wire up an accelerometer and continuously print x, y, and z acceleration values to the serial monitor.
+
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Wiring
+
+Thankfully, there was no wiring
+
+### Code
+``` python
+
+while True:
+    print(f"x = {mpu.acceleration[0]}, y = { mpu.acceleration[1]}, z = {mpu.acceleration[2]}")
+    time.sleep(1)        
+
+```
+Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/crashAvoidance1.py) to view the full code
+
+### Reflection
+
+This got us introduced to how to use an accelerometer (which will be very helpufl in out projects) and how to report values. I also learned how to use f strings which are really cool and helpful because it reduces about 3-5 lines of print code lines to 1 line.
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
