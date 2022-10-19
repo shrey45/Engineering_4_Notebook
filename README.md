@@ -5,7 +5,6 @@
 * [Launch Pad #1](#Launch_Pad_#1)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 
-&nbsp;
 
 ## Launch Pad #1
 
@@ -102,6 +101,36 @@ These were the new pieces of code. Click [here](https://github.com/shrey45/Engin
 ### Reflection
 
 This was a super easy assignment, so I did the spicy, which was a little harder but still easy. All I did was add a boolean called abortcheck and assigned "0" or "1" based on if the button was pressed, and then I also have a "break" function to break the loop it is in.
+
+## Launch Pad #4
+
+### Assignment Description
+
+This assignment was to make a servo move 180 degrees at the end of the countdown. The spicy version is to get the servo to sweep to 180 in the last 3 seconds of the countdown.
+
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Wiring
+
+Thankfully, there was no wiring
+
+### Code
+``` python
+
+if i <= 3: #checks if in last 3 seconds
+    led.value = True
+    led.value = False
+    servo1.angle = 60*(4-i) #moves servo angle to 60,120,180
+    time.sleep(0.05)
+
+```
+This is the only new chunk of code. Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/launchPad4Spicy.py) to view the full code
+
+### Reflection
+
+The regular assignment woudl just need one more line of code with a servo - the spicy was a little hard to conceptualize, but still super easy. I just checked whether it was within the last 3 seconds and then made a small formula for the servo angles in terms of i.
 
 ## Onshape_Assignment_Template
 
