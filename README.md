@@ -20,11 +20,23 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 
 ### Wiring
 
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+Thankfully, there was no wiring
 
 ### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+``` python
 
+for i in range(10,0,-1):
+#turn on & off led for .5 sec
+    led.value = True
+    time.sleep(.5)
+    print(i)
+    led.value = False
+    time.sleep(.5)
+#turn on green led at end
+print('LIFTOFF')
+led2.value = True
+
+```
 ### Reflection
 
 This was a really easy assignment and I had no troubles with it. All you have to do is insert a for() loop and set an interger to print from 10 to 0.
