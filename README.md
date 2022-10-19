@@ -60,6 +60,7 @@ print('LIFTOFF')
 led2.value = True
 
 ```
+Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/launchPad1.py) to view the code (it says part 1 but it's the code for part 2)
 ### Reflection
 
 Really easy assignment, nothing difficult at all.
