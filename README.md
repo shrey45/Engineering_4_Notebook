@@ -65,6 +65,44 @@ led2.value = True
 
 Really easy assignment, nothing difficult at all.
 
+## Launch Pad #3
+
+### Assignment Description
+
+Here, we added onto out other code by making a pushbutton initiate our countdown. The spicy version is to also have the button be able to abort the countdown and restart with more presses.
+
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Wiring
+
+Thankfully, there was no wiring
+
+### Code
+``` python
+
+abortcheck = 0
+
+```
+``` python
+if not button.value:
+        abortcheck = 1
+```
+``` python
+if not button.value:
+                print("ABORT")
+                time.sleep(1)
+                abortcheck = 0
+                break
+```
+
+These were the new pieces of code. Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/launchPad3Spicy.py) to view the full code
+
+### Reflection
+
+This was a super easy assignment, so I did the spicy, which was a little harder but still easy. All I did was add a boolean called abortcheck and assigned "0" or "1" based on if the button was pressed, and then I also have a "break" function to break the loop it is in.
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
@@ -83,7 +121,6 @@ Take a nice screenshot of your Onshape document.
 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
-&nbsp;
 
 ## Media Test
 
