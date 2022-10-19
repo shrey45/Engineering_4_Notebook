@@ -1,6 +1,5 @@
 # Engineering_4_Notebook
 
-&nbsp;
 
 ## Table of Contents
 * [Launch Pad #1](#Launch_Pad_#1)
@@ -25,6 +24,31 @@ Thankfully, there was no wiring
 ### Code
 ``` python
 
+for i in range(10,0,-1):    
+    print(i)   
+print('LIFTOFF')
+
+```
+### Reflection
+
+This was a really easy assignment and I had no troubles with it. All you have to do is insert a for() loop and set an interger to print from 10 to 0.
+
+## Launch Pad #2
+
+### Assignment Description
+
+We had to add onto our previous code and make a red light blink every second and a green light turn on at the end
+
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Wiring
+
+
+### Code
+``` python
+
 for i in range(10,0,-1):
 #turn on & off led for .5 sec
     led.value = True
@@ -39,7 +63,7 @@ led2.value = True
 ```
 ### Reflection
 
-This was a really easy assignment and I had no troubles with it. All you have to do is insert a for() loop and set an interger to print from 10 to 0.
+Really easy assignment, nothing difficult at all.
 
 ## Onshape_Assignment_Template
 
