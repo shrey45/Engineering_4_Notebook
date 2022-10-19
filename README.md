@@ -160,6 +160,83 @@ Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspber
 
 This got us introduced to how to use an accelerometer (which will be very helpufl in out projects) and how to report values. I also learned how to use f strings which are really cool and helpful because it reduces about 3-5 lines of print code lines to 1 line.
 
+## Crash Avoidance #2
+
+### Assignment Description
+
+This one added on to the last assignment, and we had to light up a green led whenever the board was tilted to 90 degrees. Another side part was also to have it powered by a LiPo battery, but that wasn't really a problem. Just plug it in.
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Wiring
+
+Thankfully, there was no wiring
+
+### Code
+``` python
+
+while True:
+    if abs(mpu.acceleration[0]) >= 9 or abs(mpu.acceleration[1]) >= 9:
+        led2.value = True
+    else:
+        led2.value = False   
+
+```
+This is the main/only addition from the last one. Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/crashAvoidance2.py) to view the full code
+
+### Reflection
+
+Super easy - I had to just add in a few lines with an if statement asking if the x or y values were above ~9 (which was the value around 90 degrees). 
+
+## Crash Avoidance #3
+
+### Assignment Description
+
+Wire up an OLED screen that reports the x, y, and z angular velocity values.
+
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Wiring
+
+Thankfully, there was no wiring
+
+### Code
+``` python
+
+# create the display group
+    splash = displayio.Group()
+
+# add title block to display group
+    title = f"x = {mpu.gyro[0]}"
+# the order of this command is (font, text, text color, and location)
+    text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=5)
+    splash.append(text_area)
+
+    title1 = f"y = {mpu.gyro[1]}"
+# the order of this command is (font, text, text color, and location)
+    text_area = label.Label(terminalio.FONT, text=title1, color=0xFFFF00, x=5, y=15)
+    splash.append(text_area)
+
+    title2 = f"z = {mpu.gyro[2]}"
+# the order of this command is (font, text, text color, and location)
+    text_area = label.Label(terminalio.FONT, text=title2, color=0xFFFF00, x=5, y=25)
+    splash.append(text_area)        
+
+# you will write more code here that prints the x, y, and z angular velocity values to the screen below the title. Use f strings!
+# Don't forget to round the angular velocity values to three decimal places
+
+# send display group to screen
+    display.show(splash)
+```
+This is all the basic code to print to an OLED screen. Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/crashAvoidance3.py) to view the full code
+
+### Reflection
+
+The OLED screen wasn't as complicated as it seemed. There were a few basic commands to get something printed to the screen, and other than that, I just had to change the code from acceleration to angular velocity, which was a 1 word swap.
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
