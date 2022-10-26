@@ -238,6 +238,27 @@ This is all the basic code to print to an OLED screen. Click [here](https://gith
 
 The OLED screen wasn't as complicated as it seemed. There were a few basic commands to get something printed to the screen, and other than that, I just had to change the code from acceleration to angular velocity, which was a 1 word swap.
 
+## Landing Area 1 & 2
+
+### Assignment Description
+
+In these two assignments, we had to input 3 coordinates of a triangle, caluculate the area, and then plot the points and make a triangle on an OLED screen.
+
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Wiring
+
+Thankfully, there was no wiring
+
+### Code
+
+Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/landingArea1.py) to view the full code
+Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/landingArea2.py) to view the full code
+
+### Reflection
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
