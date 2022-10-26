@@ -14,7 +14,7 @@ This was a very simple introductory assignment - We had to get a countdown from 
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+https://user-images.githubusercontent.com/63983735/198157410-312b2911-d246-433e-bc82-131ca46b2963.mov
 
 ### Wiring
 
@@ -40,7 +40,7 @@ We had to add onto our previous code and make a red light blink every second and
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+https://user-images.githubusercontent.com/63983735/198157540-1b7d27db-2d23-466f-af0f-48d28da1be51.mov
 
 ### Wiring
 
@@ -73,7 +73,7 @@ Here, we added onto out other code by making a pushbutton initiate our countdown
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+https://user-images.githubusercontent.com/63983735/198157735-de986317-83ba-4274-8708-b61aab024f3e.mov
 
 ### Wiring
 
@@ -111,15 +111,15 @@ This assignment was to make a servo move 180 degrees at the end of the countdown
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+https://user-images.githubusercontent.com/63983735/198157804-bf16c9f3-f43b-47c4-bb21-4fcf63d7ba15.mov
 
 ### Wiring
 
 Thankfully, there was no wiring
 
 ### Code
-``` python
 
+```
 if i <= 3: #checks if in last 3 seconds
     led.value = True
     led.value = False
