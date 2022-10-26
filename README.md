@@ -141,7 +141,7 @@ We were supposed to wire up an accelerometer and continuously print x, y, and z 
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+https://user-images.githubusercontent.com/63983735/198157965-b8bfef2b-3145-4d4d-8321-6f95b8f93800.mov
 
 ### Wiring
 
@@ -168,7 +168,7 @@ This got us introduced to how to use an accelerometer (which will be very helpuf
 This one added on to the last assignment, and we had to light up a green led whenever the board was tilted to 90 degrees. Another side part was also to have it powered by a LiPo battery, but that wasn't really a problem. Just plug it in.
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+https://user-images.githubusercontent.com/63983735/198158030-ad1dd5ff-8b01-41d7-bebb-5063d7477d45.mov
 
 ### Wiring
 
@@ -198,7 +198,7 @@ Wire up an OLED screen that reports the x, y, and z angular velocity values.
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
 
 ### Wiring
 
@@ -246,7 +246,7 @@ In these two assignments, we had to input 3 coordinates of a triangle, caluculat
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+https://user-images.githubusercontent.com/63983735/198158356-7bf65323-b295-4371-82c7-9e00e29244bc.mov
 
 ### Wiring
 
