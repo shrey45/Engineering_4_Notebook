@@ -242,7 +242,7 @@ The OLED screen wasn't as complicated as it seemed. There were a few basic comma
 
 ### Assignment Description
 
-In these two assignments, we had to input 3 coordinates of a triangle, caluculate the area, and then plot the points and make a triangle on an OLED screen.
+In these two assignments, we had to input 3 coordinates of a triangle, caluculate the area, and then plot the points and make a triangle on an OLED screen. The first one was to have just the area calculated and printed on the REPL. The second one was plotting the points.
 
 ### Evidence 
 
@@ -255,9 +255,14 @@ Thankfully, there was no wiring
 ### Code
 
 Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/landingArea1.py) to view the full code
+
 Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/landingArea2.py) to view the full code
 
 ### Reflection
+
+LA1 - This assignment I would say is pretty code heavy. The hardest part is to conceptually think about what your code it going to do, and what you need it to do. Then actually writing it out is pretty hard too. I found that there are many ways to write the same code, but there are definately easier ways. I have a really easy and tidy way to do the assignment, which also helped in the next ones b/c it was really easy to add on to.
+
+LA2 - This one was also pretty easy b/c of how I made the code in the first one - I just needed to connect my OLED screen to it and add a few lines of code creating lines and circles based off coordinates. 
 
 ## Onshape_Assignment_Template
 
