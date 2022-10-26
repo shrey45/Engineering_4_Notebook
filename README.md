@@ -262,7 +262,49 @@ Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspber
 
 LA1 - This assignment I would say is pretty code heavy. The hardest part is to conceptually think about what your code it going to do, and what you need it to do. Then actually writing it out is pretty hard too. I found that there are many ways to write the same code, but there are definately easier ways. I have a really easy and tidy way to do the assignment, which also helped in the next ones b/c it was really easy to add on to.
 
-LA2 - This one was also pretty easy b/c of how I made the code in the first one - I just needed to connect my OLED screen to it and add a few lines of code creating lines and circles based off coordinates. 
+LA2 - This one was also pretty easy b/c of how I made the code in the first one - I just needed to connect my OLED screen to it and add a few lines of code creating lines and circles based off coordinates.
+
+## Morse Code 1
+
+### Assignment Description
+
+In this assignment, we had to create code that would take user input and convert it to morse code.
+
+### Evidence 
+
+https://user-images.githubusercontent.com/63983735/198158584-17e3a748-1128-4bfb-bd6e-e12d76896160.mov
+
+### Wiring
+
+Thankfully, there was no wiring
+
+### Code
+
+
+
+### Reflection
+
+This was a pretty cool assignmnet because I used libraries for the first time - All the letters were stored with the morse code equivalent and we could just call them easily with [letter] whenever we want. Otherwise, it was a pretty simple assignment.
+
+## Morse Code 2
+
+### Assignment Description
+
+This assignment had us just adding an led to our wiring so that it would blink in certain ways before every tap, hold, between taps, between words, and more. We just had to add a few lines that defined how long the led would stay on for in case of each part of the morse code, and then implemented that with a few if statements.
+
+### Evidence 
+
+https://user-images.githubusercontent.com/63983735/198158753-2468a18c-96bf-4cf5-ab43-da9e89b4351b.mov
+
+### Wiring
+
+Thankfully, there was no wiring
+
+### Code
+
+### Reflection
+
+This wasn't hard at all, we just added a few lines for led and added on to our previous code. The libraries again made it super easy to check everything and to call everything, and without those, it could be a SUPER long assignment.
 
 ## Onshape_Assignment_Template
 
