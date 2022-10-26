@@ -280,6 +280,26 @@ Thankfully, there was no wiring
 
 ### Code
 
+``` python
+
+MORSE_CODE = { 'A':'.-', 'B':'-...',
+    'C':'-.-.', 'D':'-..', 'E':'.',
+    'F':'..-.', 'G':'--.', 'H':'....',
+    'I':'..', 'J':'.---', 'K':'-.-',
+    'L':'.-..', 'M':'--', 'N':'-.',
+    'O':'---', 'P':'.--.', 'Q':'--.-',
+    'R':'.-.', 'S':'...', 'T':'-',
+    'U':'..-', 'V':'...-', 'W':'.--',
+    'X':'-..-', 'Y':'-.--', 'Z':'--..',
+    '1':'.----', '2':'..---', '3':'...--',
+    '4':'....-', '5':'.....', '6':'-....',
+    '7':'--...', '8':'---..', '9':'----.',
+    '0':'-----', ', ':'--..--', '.':'.-.-.-',
+    '?':'..--..', '/':'-..-.', '-':'-....-',
+    '(':'-.--.', ')':'-.--.-'}
+    
+```
+Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/morseCode1.py) to view the full code (this is both parts combined)
 
 
 ### Reflection
@@ -301,6 +321,34 @@ https://user-images.githubusercontent.com/63983735/198158753-2468a18c-96bf-4cf5-
 Thankfully, there was no wiring
 
 ### Code
+
+``` python
+
+modifier = 0.25
+dot_time = 1*modifier
+dash_time = 3*modifier
+between_taps = 1*modifier
+between_letters = 3*modifier
+between_words = 7*modifier
+```
+These are both the additions from MC1 ⬆️ ⬇️
+
+``` python
+for character in final:
+    if character == ".":
+        led.value = True
+        time.sleep(dot_time)
+    if character == "-":
+        led.value = True
+        time.sleep(dash_time)
+    if character == "/":
+        led.value = True
+        time.sleep(between_words)
+    if character == "":
+        led.value = True
+        time.sleep(between_letters)
+```
+Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/morseCode1.py) to view the full code
 
 ### Reflection
 
