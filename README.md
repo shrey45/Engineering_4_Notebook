@@ -257,6 +257,10 @@ The OLED screen wasn't as complicated as it seemed. There were a few basic comma
 
 In these two assignments, we had to input 3 coordinates of a triangle, caluculate the area, and then plot the points and make a triangle on an OLED screen. The first one was to have just the area calculated and printed on the REPL. The second one was plotting the points.
 
+LA1 - Enter coordinates and generate traingle area
+
+LA2 - Same as LA1 + graph traingle on OLED screen
+
 ### Evidence 
 
 https://user-images.githubusercontent.com/63983735/198158356-7bf65323-b295-4371-82c7-9e00e29244bc.mov
