@@ -4,7 +4,9 @@
 ## Table of Contents
 * [Launch Pad #1](#Launch_Pad_1)
 * [Launch Pad #2](#Launch_Pad_2)
-* [Launch Pad #3](#Launch_Pad_#3)
+* [Launch Pad #3](#Launch_Pad_3)
+* [Launch Pad #4](#Launch_Pad_4)
+* [Crash Avoidance 1](#Crash Avoidance 1)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 
 
@@ -68,7 +70,7 @@ Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspber
 
 Really easy assignment, nothing difficult at all.
 
-## Launch Pad #3
+## Launch Pad 3
 
 ### Assignment Description
 
@@ -106,7 +108,7 @@ These were the new pieces of code. Click [here](https://github.com/shrey45/Engin
 
 This was a super easy assignment, so I did the spicy, which was a little harder but still easy. All I did was add a boolean called abortcheck and assigned "0" or "1" based on if the button was pressed, and then I also have a "break" function to break the loop it is in.
 
-## Launch Pad #4
+## Launch Pad 4
 
 ### Assignment Description
 
@@ -136,7 +138,7 @@ This is the only new chunk of code. Click [here](https://github.com/shrey45/Engi
 
 The regular assignment woudl just need one more line of code with a servo - the spicy was a little hard to conceptualize, but still super easy. I just checked whether it was within the last 3 seconds and then made a small formula for the servo angles in terms of i.
 
-## Crash Avoidance #1
+## Crash Avoidance 1
 
 ### Assignment Description
 
@@ -164,7 +166,7 @@ Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspber
 
 This got us introduced to how to use an accelerometer (which will be very helpufl in out projects) and how to report values. I also learned how to use f strings which are really cool and helpful because it reduces about 3-5 lines of print code lines to 1 line.
 
-## Crash Avoidance #2
+## Crash Avoidance 2
 
 ### Assignment Description
 
@@ -193,7 +195,7 @@ This is the main/only addition from the last one. Click [here](https://github.co
 
 Super easy - I had to just add in a few lines with an if statement asking if the x or y values were above ~9 (which was the value around 90 degrees). 
 
-## Crash Avoidance #3
+## Crash Avoidance 3
 
 ### Assignment Description
 
