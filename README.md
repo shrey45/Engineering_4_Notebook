@@ -3,6 +3,8 @@
 
 ## Table of Contents
 * [Launch Pad #1](#Launch_Pad_#1)
+* [Launch Pad #2](#Launch_Pad_#2)
+* [Launch Pad #3](#Launch_Pad_#3)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 
 
