@@ -34,7 +34,7 @@ print('LIFTOFF')
 
 This was a really easy assignment and I had no troubles with it. All you have to do is insert a for() loop and set an interger to print from 10 to 0.
 
-## Launch Pad #2
+## Launch_Pad_#2
 
 ### Assignment Description
 
