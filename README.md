@@ -44,6 +44,7 @@ https://user-images.githubusercontent.com/63983735/198157540-1b7d27db-2d23-466f-
 
 ### Wiring
 
+![LA2](images/LA2.jpeg)
 
 ### Code
 ``` python
@@ -77,7 +78,7 @@ https://user-images.githubusercontent.com/63983735/198157735-de986317-83ba-4274-
 
 ### Wiring
 
-Thankfully, there was no wiring
+<img src="images/LP3.jpeg" alt="" width="200" height="200" />
 
 ### Code
 ``` python
@@ -115,7 +116,7 @@ https://user-images.githubusercontent.com/63983735/198157804-bf16c9f3-f43b-47c4-
 
 ### Wiring
 
-Thankfully, there was no wiring
+<img src="images/LP4.jpeg" alt="" width="200" height="200" />
 
 ### Code
 
@@ -172,7 +173,7 @@ https://user-images.githubusercontent.com/63983735/198158030-ad1dd5ff-8b01-41d7-
 
 ### Wiring
 
-Thankfully, there was no wiring
+<img src="images/CA2.jpeg" alt="" width="200" height="200" />
 
 ### Code
 ``` python
@@ -204,7 +205,7 @@ Credit: [Ellen Lynch](https://github.com/elynch78/Engineering4Notebook)
 
 ### Wiring
 
-Thankfully, there was no wiring
+![CA3](images/CA3.jpeg)
 
 ### Code
 ``` python
@@ -254,13 +255,13 @@ https://user-images.githubusercontent.com/63983735/198158356-7bf65323-b295-4371-
 
 ### Wiring
 
-Thankfully, there was no wiring
+![LA2](images/LA2.jpeg)
 
 ### Code
 
-Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/landingArea1.py) to view the full code
+LA1 - Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/landingArea1.py) to view the full code
 
-Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/landingArea2.py) to view the full code
+LA2 - Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspberry-pi/landingArea2.py) to view the full code
 
 ### Reflection
 
@@ -322,7 +323,7 @@ https://user-images.githubusercontent.com/63983735/198158753-2468a18c-96bf-4cf5-
 
 ### Wiring
 
-Thankfully, there was no wiring
+<img src="images/MC2.jpeg" alt="" width="200" height="200" />
 
 ### Code
 
