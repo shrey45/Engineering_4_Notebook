@@ -12,7 +12,7 @@
 * [Morse Code 1](#Morse_Code_1)
 * [Morse Code 2](#Morse_Code_2)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
-* [Special Thanks!](#Special_Thanks!)
+* [Special Thanks!](#Special_Thanks)
 
 
 ## Launch_Pad_1
@@ -410,7 +410,7 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 
 ---
 
-## Special_Thanks!
+## Special_Thanks
 
 **All Wiring Diagrams - Credit: [Ellen Lynch](https://github.com/elynch78/Engineering4Notebook)**
 
