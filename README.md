@@ -412,10 +412,9 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 
 ## Special_Thanks
 
-**All Wiring Diagrams - Credit: [Ellen Lynch](https://github.com/elynch78/Engineering4Notebook)**
+**All Code Wiring Diagrams - Credit: [Ellen Lynch](https://github.com/elynch78/Engineering4Notebook)**
 
-**All Evidence(videos) - Credit: [Quinn Ragsdale](https://github.com/qragsda80/Engineering_4_Notebook)**
-
+**All Code Evidence(videos) - Credit: [Quinn Ragsdale](https://github.com/qragsda80/Engineering_4_Notebook)**
 
 I had A LOT of outside Github problems with my videos and wiring and lost all of it through some event, so appreciate fellow classmates for their help or I would spend hours more trying to recreate wiring and make videos. 🫡🫡🫡
 
