@@ -8,7 +8,7 @@
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 
 
-## Launch Pad #1
+## Launch_Pad_#1
 
 ### Assignment Description
 
