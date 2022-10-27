@@ -198,7 +198,9 @@ Wire up an OLED screen that reports the x, y, and z angular velocity values.
 
 ### Evidence 
 
+![gif](images/CA3.gif)
 
+Credit: [Ellen Lynch](https://github.com/elynch78/Engineering4Notebook)
 
 ### Wiring
 
