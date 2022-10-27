@@ -8,8 +8,7 @@
 * [Launch Pad #4](#Launch_Pad_4)
 * [Crash Avoidance 1](#Crash_Avoidance_1)
 * [Crash Avoidance 2](#Crash_Avoidance_2)
-* [Landing Area 1](#Landing_Area_1)
-* [Landing Area 2](#Landing_Area_2)
+* [Landing Area 1 & 2](#Landing_Area_1_&_2)
 * [Morse Code 1](#Morse_Code_1)
 * [Morse Code 2](#Morse_Code_2)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
@@ -75,7 +74,7 @@ Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspber
 
 Really easy assignment, nothing difficult at all.
 
-## Launch Pad 3
+## Launch_Pad_3
 
 ### Assignment Description
 
@@ -113,7 +112,7 @@ These were the new pieces of code. Click [here](https://github.com/shrey45/Engin
 
 This was a super easy assignment, so I did the spicy, which was a little harder but still easy. All I did was add a boolean called abortcheck and assigned "0" or "1" based on if the button was pressed, and then I also have a "break" function to break the loop it is in.
 
-## Launch Pad 4
+## Launch_Pad_4
 
 ### Assignment Description
 
@@ -143,7 +142,7 @@ This is the only new chunk of code. Click [here](https://github.com/shrey45/Engi
 
 The regular assignment woudl just need one more line of code with a servo - the spicy was a little hard to conceptualize, but still super easy. I just checked whether it was within the last 3 seconds and then made a small formula for the servo angles in terms of i.
 
-## Crash Avoidance 1
+## Crash_Avoidance_1
 
 ### Assignment Description
 
@@ -171,7 +170,7 @@ Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspber
 
 This got us introduced to how to use an accelerometer (which will be very helpufl in out projects) and how to report values. I also learned how to use f strings which are really cool and helpful because it reduces about 3-5 lines of print code lines to 1 line.
 
-## Crash Avoidance 2
+## Crash_Avoidance_2
 
 ### Assignment Description
 
@@ -200,7 +199,7 @@ This is the main/only addition from the last one. Click [here](https://github.co
 
 Super easy - I had to just add in a few lines with an if statement asking if the x or y values were above ~9 (which was the value around 90 degrees). 
 
-## Crash Avoidance 3
+## Crash_Avoidance_3
 
 ### Assignment Description
 
@@ -252,7 +251,7 @@ The OLED screen wasn't as complicated as it seemed. There were a few basic comma
 
 
 
-## Landing Area 1 & 2
+## Landing_Area_1_&_2
 
 ### Assignment Description
 
@@ -278,7 +277,7 @@ LA1 - This assignment I would say is pretty code heavy. The hardest part is to c
 
 LA2 - This one was also pretty easy b/c of how I made the code in the first one - I just needed to connect my OLED screen to it and add a few lines of code creating lines and circles based off coordinates.
 
-## Morse Code 1
+## Morse_Code_1
 
 ### Assignment Description
 
@@ -320,7 +319,7 @@ Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspber
 
 This was a pretty cool assignmnet because I used libraries for the first time - All the letters were stored with the morse code equivalent and we could just call them easily with [letter] whenever we want. Otherwise, it was a pretty simple assignment.
 
-## Morse Code 2
+## Morse_Code_2
 
 ### Assignment Description
 
