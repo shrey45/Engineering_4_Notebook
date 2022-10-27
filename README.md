@@ -418,4 +418,7 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 
 I had A LOT of outside Github problems with my videos and wiring and lost all of it through some event, so appreciate fellow classmates for their help or I would spend hours more trying to recreate wiring and make videos. 🫡🫡🫡
 
+Special Thanks again to [Quinn Ragsdale](https://github.com/qragsda80/Engineering_4_Notebook) for getting me off task but also somehow keeping me on task (only some times). I'm not sure how that works ask him.  
+
+
 ---
