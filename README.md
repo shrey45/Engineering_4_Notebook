@@ -8,7 +8,7 @@
 * [Launch Pad #4](#Launch_Pad_4)
 * [Crash Avoidance 1](#Crash_Avoidance_1)
 * [Crash Avoidance 2](#Crash_Avoidance_2)
-* [Landing Area 1 & 2](#Landing_Area_1 & 2)
+* [Landing Area 1 & 2](#Landing_Area_1_&_2)
 * [Morse Code 1](#Morse_Code_1)
 * [Morse Code 2](#Morse_Code_2)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
@@ -251,7 +251,7 @@ The OLED screen wasn't as complicated as it seemed. There were a few basic comma
 
 
 
-## Landing_Area_1 & 2
+## Landing_Area_1_&_2
 
 ### Assignment Description
 
