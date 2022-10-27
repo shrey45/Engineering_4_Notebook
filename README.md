@@ -12,6 +12,7 @@
 * [Morse Code 1](#Morse_Code_1)
 * [Morse Code 2](#Morse_Code_2)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
+* [Special Thanks!](#Special_Thanks!)
 
 
 ## Launch_Pad_1
@@ -371,17 +372,6 @@ Click [here](https://github.com/shrey45/Engineering_4_Notebook/blob/main/raspber
 
 This wasn't hard at all, we just added a few lines for led and added on to our previous code. The libraries again made it super easy to check everything and to call everything, and without those, it could be a SUPER long assignment.
 
----
-
-
-**All Wiring Diagrams - Credit: [Ellen Lynch](https://github.com/elynch78/Engineering4Notebook)**
-
-**All Evidence(videos) - Credit: [Quinn Ragsdale](https://github.com/qragsda80/Engineering_4_Notebook)**
-
-
-I had A LOT of outside Github problems with my videos and wiring and lost all of it through some event, so appreciate fellow classmates for their help or I would spend hours more trying to recreate wiring and make videos. 🫡🫡🫡
-
----
 
 ## Onshape_Assignment_Template
 
@@ -417,3 +407,16 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 ### Test GIF
 
 ![ayo](images/giphy.gif)
+
+---
+
+## Special_Thanks!
+
+**All Wiring Diagrams - Credit: [Ellen Lynch](https://github.com/elynch78/Engineering4Notebook)**
+
+**All Evidence(videos) - Credit: [Quinn Ragsdale](https://github.com/qragsda80/Engineering_4_Notebook)**
+
+
+I had A LOT of outside Github problems with my videos and wiring and lost all of it through some event, so appreciate fellow classmates for their help or I would spend hours more trying to recreate wiring and make videos. 🫡🫡🫡
+
+---
