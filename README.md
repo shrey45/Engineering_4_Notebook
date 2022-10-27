@@ -6,7 +6,12 @@
 * [Launch Pad #2](#Launch_Pad_2)
 * [Launch Pad #3](#Launch_Pad_3)
 * [Launch Pad #4](#Launch_Pad_4)
-* [Crash Avoidance 1](#Crash Avoidance 1)
+* [Crash Avoidance 1](#Crash_Avoidance_1)
+* [Crash Avoidance 2](#Crash_Avoidance_2)
+* [Landing Area 1](#Landing_Area_1)
+* [Landing Area 2](#Landing_Area_2)
+* [Morse Code 1](#Morse_Code_1)
+* [Morse Code 2](#Morse_Code_2)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 
 
