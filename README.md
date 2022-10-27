@@ -2,13 +2,13 @@
 
 
 ## Table of Contents
-* [Launch Pad #1](#Launch_Pad_#1)
-* [Launch Pad #2](#Launch_Pad_#2)
+* [Launch Pad #1](#Launch_Pad_1)
+* [Launch Pad #2](#Launch_Pad_2)
 * [Launch Pad #3](#Launch_Pad_#3)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 
 
-## Launch_Pad_#1
+## Launch_Pad_1
 
 ### Assignment Description
 
@@ -34,7 +34,7 @@ print('LIFTOFF')
 
 This was a really easy assignment and I had no troubles with it. All you have to do is insert a for() loop and set an interger to print from 10 to 0.
 
-## Launch_Pad_#2
+## Launch_Pad_2
 
 ### Assignment Description
 
