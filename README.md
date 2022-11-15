@@ -375,6 +375,26 @@ This wasn't hard at all, we just added a few lines for led and added on to our p
 
 ## Onshape_Assignment_Template
 
+## FEA 1
+
+### Assignment Description
+
+Gaby and I had to build a bridge to support mass.
+
+### Onshape 
+
+[Onshape](https://cvilleschools.onshape.com/documents/cb8b9bb78bdf1ee50d84757e/w/4ef288967c0ae586b1b96682/e/b2ab5e21880641ecd136b936)  
+
+### Evidence
+
+![img](images/fea1.PNG)
+
+
+### Reflection
+
+We designed a beam to be able to withsand bending and an unknown ammount of mass. We will add weights until the bridghe either snaps or bends past a certain point (<35mm). We learned that simple is sometimes better than a complicated design.
+
+
 ### Assignment Description
 
 Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
