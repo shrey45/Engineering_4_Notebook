@@ -421,15 +421,15 @@ We had to test our beam in Simscale Workflow to test the flexibility and resista
 
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021).  
 
 ### Part Image
 
-Take a nice screenshot of your Onshape document. 
+![beamfea3](https://user-images.githubusercontent.com/63983735/225400277-e2a5aab6-e8f2-4e6a-9876-e3f5dcc795da.PNG)
 
 ### Reflection
 
-We found that our initial beam design was not so great, and the beam bent WAYYY to much at one point. We hadn't really thought through what the structure would be doing, so it ended up faltering at one point that was just the bottom of the beam. We used this to make our next designs more space conscious. 
+After doing a bunch of simscale testing, we realized that we were just trying to do too much in our design. It ended up working better when we had a more basic version, which is what we ended up with. The fina; results of our modified Beam were WAYYY better than the first version we made. We had a few other version in between (which you can look at through the version history), but this was by far the best. Lesson: beauty is in simplicity (not that I've ever abided by that even after this).
 
 ## Media Test
 
