@@ -405,7 +405,8 @@ We had to test our beam in Simscale Workflow to test the flexibility and resista
 
 ### Part Image
 
-Take a nice screenshot of your Onshape document. 
+![Capture](https://user-images.githubusercontent.com/63983735/225399684-9e71c897-0796-4b64-9c4e-48031104b0cf.PNG)
+
 
 ### Reflection
 
