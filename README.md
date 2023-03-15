@@ -394,11 +394,11 @@ Gaby and I had to build a bridge to support mass.
 
 We designed a beam to be able to withsand bending and an unknown ammount of mass. We will add weights until the bridghe either snaps or bends past a certain point (<35mm). We learned that simple is sometimes better than a complicated design.
 
+## FEA 2 
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
+We had to test our beam in Simscale Workflow to test the flexibility and resistance of the beam. 
 ### Part Link 
 
 [Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
@@ -409,8 +409,7 @@ Take a nice screenshot of your Onshape document.
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-
+We found that our initial beam design was not so great, and the beam bent WAYYY to much at one point. We hadn't really thought through what the structure would be doing, so it ended up faltering at one point that was just the bottom of the beam. We used this to make our next designs more space conscious. 
 
 ## Media Test
 
