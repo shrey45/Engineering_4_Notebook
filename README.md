@@ -431,6 +431,61 @@ We had to test our beam in Simscale Workflow to test the flexibility and resista
 
 After doing a bunch of simscale testing, we realized that we were just trying to do too much in our design. It ended up working better when we had a more basic version, which is what we ended up with. The fina; results of our modified Beam were WAYYY better than the first version we made. We had a few other version in between (which you can look at through the version history), but this was by far the best. Lesson: beauty is in simplicity (not that I've ever abided by that even after this).
 
+## 4.1 Ring and Spinner
+
+### Assignment Description
+
+The purpose of this assignment is to refresh and relearn our skills in Onshape. The task is to create and design a ring and a spinner 
+
+### Part Link 
+
+[Link to the Ring and Spinner](https://cvilleschools.onshape.com/documents/8616b8a375e597ac84230d17/w/24a18f8c93de24401fba89ea/e/5fe78ceeb2398b3504d84b42?renderMode=0&uiState=640f2f1e61c40226d1bda0a9). 
+
+### Part Image
+
+![Hyperlink text](images/Ring&Spinner.jpg) 
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+## 4.2 Key and Prop
+
+### Assignment Description
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Part Link 
+
+[Link to the Key and Prop](https://cvilleschools.onshape.com/documents/8616b8a375e597ac84230d17/w/24a18f8c93de24401fba89ea/e/5fe78ceeb2398b3504d84b42?renderMode=0&uiState=640f2f1e61c40226d1bda0a9).  
+
+### Part Image
+
+![Hyperlink text](images/Key&Prop.jpg)
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+
+## 4.3 Assembling the Launcher
+
+### Assignment Description
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Part Link 
+
+[Link to the Assembly](https://cvilleschools.onshape.com/documents/8616b8a375e597ac84230d17/w/24a18f8c93de24401fba89ea/e/5d6f1ec0c09f80c20c19635d). 
+
+### Part Image
+
+Take a nice screenshot of your Onshape document. 
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
 ## Media Test
 
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
