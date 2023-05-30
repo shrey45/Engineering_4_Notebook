@@ -453,8 +453,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
+This is a refresher course in Onshape. The task is to create and design a ring and a spinner for a helicopter toy called a "Pull Copter." In this assignment, I was Student B and Quinn [@qragsda80](https://github.com/qragsda80) was Student A. I created the Spinner & Prop part of the assignment.
 ### Part Link 
 
 [Link to the Key and Prop](https://cvilleschools.onshape.com/documents/8616b8a375e597ac84230d17/w/24a18f8c93de24401fba89ea/e/5fe78ceeb2398b3504d84b42?renderMode=0&uiState=640f2f1e61c40226d1bda0a9).  
@@ -465,8 +464,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-
+It was a pretty easy assignment to be completely honest - there were guided instructions so there was no way to be stuck or have trouble, and the part design was fairly simple too.
 
 ## 4.3 Assembling the Launcher
 
