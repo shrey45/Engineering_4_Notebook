@@ -478,7 +478,11 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Part Image
 
-Take a nice screenshot of your Onshape document. 
+
+
+https://github.com/shrey45/Engineering_4_Notebook/assets/63983735/a25eb37d-3e25-4410-aeb2-18d924a2c781
+
+
 
 ### Reflection
 
