@@ -470,23 +470,18 @@ It was a pretty easy assignment to be completely honest - there were guided inst
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
+This is part of our 3 step Onshape refresher course. This was the assembly assignment to put together the entire pull copter.
 ### Part Link 
 
 [Link to the Assembly](https://cvilleschools.onshape.com/documents/8616b8a375e597ac84230d17/w/24a18f8c93de24401fba89ea/e/5d6f1ec0c09f80c20c19635d). 
 
 ### Part Image
 
-
-
 https://github.com/shrey45/Engineering_4_Notebook/assets/63983735/a25eb37d-3e25-4410-aeb2-18d924a2c781
-
-
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+Again, super easy. The guided assignment told you exactly what to do, and I was familiar with the mates and functions that it was requiring me to use.
 
 ## Media Test
 
