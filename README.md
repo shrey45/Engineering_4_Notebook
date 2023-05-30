@@ -456,11 +456,11 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 This is a refresher course in Onshape. The task is to create and design a ring and a spinner for a helicopter toy called a "Pull Copter." In this assignment, I was Student B and Quinn [@qragsda80](https://github.com/qragsda80) was Student A. I created the Spinner & Prop part of the assignment.
 ### Part Link 
 
-[Link to the Key and Prop](https://cvilleschools.onshape.com/documents/8616b8a375e597ac84230d17/w/24a18f8c93de24401fba89ea/e/5fe78ceeb2398b3504d84b42?renderMode=0&uiState=640f2f1e61c40226d1bda0a9).  
+[Link to the Spinner & Prop](https://cvilleschools.onshape.com/documents/8616b8a375e597ac84230d17/w/24a18f8c93de24401fba89ea/e/094a17de0ba520f009130882).  
 
 ### Part Image
 
-![Hyperlink text](images/Key&Prop.jpg)
+<img width="490" alt="Screen Shot 2023-05-29 at 9 14 30 PM" src="https://github.com/shrey45/Engineering_4_Notebook/assets/63983735/6df0f495-281f-47ea-ad48-1bf1786ef8f0">
 
 ### Reflection
 
