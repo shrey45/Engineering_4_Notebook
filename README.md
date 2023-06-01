@@ -443,7 +443,7 @@ The purpose of this assignment is to refresh and relearn our skills in Onshape. 
 
 ### Part Image
 
-![Hyperlink text](images/Ring&Spinner.jpg) 
+![Capture](https://github.com/shrey45/Engineering_4_Notebook/assets/63983735/b5f11e5d-1be6-489a-8d04-e11b6f529aa5)
 
 ### Reflection
 
