@@ -435,7 +435,7 @@ After doing a bunch of simscale testing, we realized that we were just trying to
 
 ### Assignment Description
 
-The purpose of this assignment is to refresh and relearn our skills in Onshape. The task is to create and design a ring and a spinner 
+The purpose of this assignment is to refresh and relearn our skills in Onshape. The task is to create and design a ring and a spinner according to a guided assignment
 
 ### Part Link 
 
